@@ -5,7 +5,7 @@ Material of the course "Sketching with Hardware" taught at University of Regensb
 Status:
 
  * Slides (EN, DE): complete
- * Tutorial Sheets: WIP
+ * Tutorial Sheets (EN, DE): complete
  * Guide for teachers: WIP
 
 See https://hci.ur.de/projects/swh for further information.
